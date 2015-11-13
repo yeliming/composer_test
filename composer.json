@@ -2,5 +2,6 @@
     "name": "cary/meizu",
     "autoload": {
         "psr-4": {"MeiZu\\":"lib"}
-    }
+    },
+    "version": "1.0.0"
 }
